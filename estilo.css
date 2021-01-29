@@ -1,0 +1,28 @@
+body {
+    background:white;
+
+}
+#topo{
+    text-align: center;
+}
+#conteudo{
+    text-align: center;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: moccasin;
+    text-shadow: paleturquoise;
+}
+#rodape{
+    background-color: moccasin;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+    text-align:justify
+}
+#titulo{
+    text-align: center;
+    font-size: medium;
+    font-weight: 600;
+    background-color: moccasin;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
